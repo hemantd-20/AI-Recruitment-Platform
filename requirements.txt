@@ -1,0 +1,11 @@
+langgraph 
+google-generativeai 
+pdfplumber 
+docx2txt 
+spacy
+# keybert sentence-transformers
+streamlit
+pandas
+python-dotenv
+# tenacity
+# python -m spacy download en_core_web_sm
